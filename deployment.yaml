@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: net
-          image: kushal9897/net-pipeline:1.0.0-34
+          image: kushal9897/net-pipeline:
           resources:
             limits:
               memory: "256Mi"
