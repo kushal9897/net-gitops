@@ -1,5 +1,5 @@
 pipeline {
-    agent { label "Jenlins-Agent" }
+    agent { label "jenlins-agent" }
     environment {
               APP_NAME = "net-pipeline"
     }
